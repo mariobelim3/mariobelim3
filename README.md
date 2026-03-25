@@ -8,7 +8,7 @@ Interessado em sistemas, redes e — a longo prazo — **cibersegurança**.
 ## Sobre mim
 
 - 2º ano de Engenharia Informática na Universidade da Madeira
-- Gosto especialmente das cadeiras de sistemas e redes
+- As cadeiras que mais me chamam a atenção são Sistemas, Bases de Dados e Redes — áreas que vejo como base essencial para seguir cibersegurança
 - Quero seguir mestrado em Cibersegurança
 - Este perfil é onde vou guardando os projectos que faço ao longo do curso
 
@@ -81,4 +81,4 @@ Projecto da cadeira de Desenvolvimento Baseado na Web (em curso).
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariobelim)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto=mario@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariobelim3@gmail.com)
