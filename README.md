@@ -51,23 +51,19 @@ Interessado em sistemas, redes e — a longo prazo — **cibersegurança**.
 ## Projectos académicos
 
 ### ⚙️ maquina-lavar-verilog
-Controlador de máquina de lavar implementado em Verilog como máquina de estados.
-Inclui ciclo completo (água, aquecimento, detergente, lavagem, enxaguamento, centrifugação)
-e funcionalidades extra: protecção contra falha de energia e atraso de início programável.
+Projecto desenvolvido na cadeira de Sistemas Digitais. Consiste num controlador para uma máquina de lavar roupa implementado em Verilog, organizado como uma máquina de estados finitos. O sistema gere um ciclo completo de lavagem com as fases de entrada de água, aquecimento, libertação de detergente, lavagem, enxaguamento, centrifugação e abertura da porta. Foram ainda implementadas duas funcionalidades extra: protecção contra falha de energia (o sistema retoma o ciclo do ponto onde foi interrompido) e atraso de início programável. O projecto foi simulado e validado no ISE Xilinx.
 
 `Verilog` `Sistemas Digitais` `Máquinas de Estado` `ISE Xilinx`
 
 ### 🕵️ sherlock-holmes-text-adventure
-Jogo de aventura textual em Java ambientado no Funchal. O jogador assume o papel de
-Sherlock Holmes para resolver um mistério no porto industrial da cidade.
-Desenvolvido com princípios SOLID, Design Pattern Command e POO avançada.
+Projecto desenvolvido na cadeira de Programação Orientada a Objectos. É um jogo de aventura em texto escrito em Java, ambientado no Funchal, onde o jogador assume o papel de Sherlock Holmes para resolver um mistério de contrabando no porto industrial da cidade. O jogo conta com 9 locais interligados, sistema de inventário, caderno de pistas, diálogos com NPCs carregados de ficheiros externos e um interpretador de comandos em português. A arquitectura segue os princípios SOLID e o Design Pattern Command, com o código organizado em pacotes por responsabilidade.
 
 `Java` `POO` `Design Patterns` `SOLID` `NetBeans`
 
 ### 🌐 dev-web
-Projecto da cadeira de Desenvolvimento Baseado na Web (em curso).
+Projecto da cadeira de Desenvolvimento Baseado na Web (em curso). Envolve a criação de uma aplicação web com HTML, CSS, JavaScript, Node.js e React.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Node.js` `React`
 
 ---
 
