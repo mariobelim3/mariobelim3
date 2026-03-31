@@ -94,10 +94,7 @@ Aplicação web desenvolvida na cadeira de Desenvolvimento Baseado na Web.
 
 ## Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariobelim3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariobelim3&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+![](https://komarev.com/ghpvc/?username=mariobelim3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
