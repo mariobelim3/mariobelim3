@@ -74,6 +74,15 @@ Jogo de aventura em texto escrito em Java, ambientado no Funchal. O jogador é S
 
 ---
 
+### 🖥️ processador-8bit-vhdl
+> *Computer Architecture — UMa 2025/26*
+
+Implementação de um processador básico de 8 bits em VHDL, desenvolvido no Vivado ML Edition e testado numa FPGA Artix 7. O processador inclui um conjunto mínimo de instruções e é composto por PC, MUX PC, descodificador de ROM, memória de instruções, memória de dados, registos A e B, MUX R, ALU, registo de flags e gestor de periféricos. A simulação foi realizada no Vivado Simulator.
+
+`VHDL` `FPGA` `Artix 7` `Vivado` `Computer Architecture`
+
+---
+
 ### 🌐 dev-web *(em curso)*
 > *Web Development — UMa 2024/25*
 
@@ -85,8 +94,10 @@ Aplicação web desenvolvida na cadeira de Desenvolvimento Baseado na Web.
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=mariobelim3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariobelim3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariobelim3&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
