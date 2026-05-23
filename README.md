@@ -83,12 +83,14 @@ Implementação de um processador básico de 8 bits em VHDL, desenvolvido no Viv
 
 ---
 
-### 🌐 dev-web *(em curso)*
-> *Web Development — UMa 2024/25*
+### 🎮 Matrioska de Palavras
+> *Web Development — UMa 2025/26*
 
-Aplicação web desenvolvida na cadeira de Desenvolvimento Baseado na Web.
+Jogo multijogador de agilidade linguística. O jogador recebe uma
+Palavra-Mestra e deve encontrar o maior número de subpalavras escondidas
+na sua grafia. Suporta modo single-player e multiplayer remoto.
 
-`HTML` `CSS` `JavaScript` `Node.js` `React`
+`HTML` `CSS` `JavaScript` `Node.js` `React` `MongoDB` `Socket.io`
 
 ---
 
