@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mário%20Belim&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20UMa%20•%20Future%20Cybersecurity%20Analyst&descAlignY=60&descSize=16&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mário%20Belim&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%40%20UMa%20•%20Cybersecurity%20in%20progress&descAlignY=60&descSize=16&descColor=8b949e" width="100%"/>
 
 <p>
-  <img src="https://img.shields.io/badge/2nd_Year-Engineering-00d4ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Goal-Cybersecurity_MSc-ff4757?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/2nd_Year-Computer_Engineering-00d4ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Target-MSc_Cybersecurity-ff4757?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Based_in-Madeira,_PT-2ed573?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Internship-iA_Saúde-8b949e?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 </div>
@@ -15,82 +16,73 @@
 ## `whoami`
 
 ```text
-student@uma:~$ cat about.txt
+attacker@kali:~$ cat about.txt
 
-  Name     : Mário Belim
-  Degree   : Computer Engineering — Universidade da Madeira
-  Year     : 2nd year
-  Interests: Systems, Databases, Networks
-  Target   : MSc in Cybersecurity
+  Name       : Mário Belim
+  Degree     : Computer Engineering — Universidade da Madeira
+  Year       : 2nd year
+  Focus      : Offensive Security, Red Team, Detection Engineering
+  Target     : MSc in Cybersecurity — Universidade de Aveiro
+  Internship : Cybersecurity @ iA Saúde — Wazuh SIEM, asset inventory (CNCS), Cortex XDR
 
-  I'm drawn to how things work at a low level — networks, systems,
-  the infrastructure that everything else sits on top of.
-  This profile tracks my progress from CS student to security professional.
+  Building a practical portfolio from the ground up —
+  real tools, real lab, real results.
 ```
+
+---
+
+## Certifications
+
+![Cisco](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117)
 
 ---
 
 ## Skills
 
-### Core languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-ff4757?style=for-the-badge&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=intel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Web
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Tools & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Tools
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## Projects
 
-### ⚙️ maquina-lavar-verilog
-> *Digital Systems — UMa 2024/25*
+### REDFORGE — Automated Red Team Toolkit
+> *Personal Project — 2026*
 
-Controlador de máquina de lavar implementado em Verilog como máquina de estados finitos (FSM). Gere um ciclo completo de lavagem — entrada de água, aquecimento, detergente, lavagem, enxaguamento, centrifugação e abertura de porta. Inclui protecção contra falha de energia (retoma o ciclo do ponto exacto onde foi interrompido) e atraso de início programável. Validado por simulação no ISE Xilinx.
+Toolkit de Red Team desenvolvido de raiz em Python que automatiza o ciclo completo de um pentest. O pipeline corre com um único comando: reconhecimento, análise de vulnerabilidades via API do NVD, exploração de CVEs reais, pós-exploração e geração automática de relatório profissional em Markdown. Cada técnica está mapeada ao framework MITRE ATT&CK.
 
-`Verilog` `FSM` `Hardware Design` `ISE Xilinx`
+Exploits implementados: vsftpd 2.3.4 backdoor (CVE-2011-2523, CVSS 9.8), Samba usermap_script (CVE-2007-2447, CVSS 9.3), SSH brute force (T1110.001). Testado num ambiente de laboratório isolado com Kali Linux, Metasploitable2 e Wazuh SIEM.
 
----
+`Python` `MITRE ATT&CK` `Red Team` `CVE` `Wazuh` `Kali Linux` `Pentest`
 
-### 🕵️ sherlock-holmes-text-adventure
-> *Object-Oriented Programming — UMa 2024/25*
-
-Jogo de aventura em texto escrito em Java, ambientado no Funchal. O jogador é Sherlock Holmes a investigar um esquema de contrabando no porto industrial da cidade. Nove locais interligados, sistema de inventário, caderno de pistas, NPCs com diálogos carregados de ficheiros externos e interpretador de comandos em português. Arquitectura baseada nos princípios SOLID e no Design Pattern Command, código organizado em pacotes por responsabilidade.
-
-`Java` `OOP` `SOLID` `Design Patterns` `Clean Code`
+[![REDFORGE](https://img.shields.io/badge/GitHub-REDFORGE-ff4757?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariobelim3/REDFORGE)
 
 ---
 
-### 🖥️ processador-8bit-vhdl
-> *Computer Architecture — UMa 2025/26*
+### Home Lab — Cybersecurity Detection Lab
+> *Personal Project — 2025/26*
 
-Implementação de um processador básico de 8 bits em VHDL, desenvolvido no Vivado ML Edition e testado numa FPGA Artix 7. O processador inclui um conjunto mínimo de instruções e é composto por PC, MUX PC, descodificador de ROM, memória de instruções, memória de dados, registos A e B, MUX R, ALU, registo de flags e gestor de periféricos. A simulação foi realizada no Vivado Simulator.
+Laboratório de cibersegurança construído em VirtualBox com rede interna isolada. Inclui Kali Linux como máquina atacante, Metasploitable2 como alvo e Wazuh 4.x como SIEM para monitorização e deteção. Configuração completa de rede NAT, agentes Wazuh, regras de deteção customizadas e documentação técnica detalhada.
 
-`VHDL` `FPGA` `Artix 7` `Vivado` `Computer Architecture`
+`VirtualBox` `Kali Linux` `Wazuh` `SIEM` `Detection Engineering` `Networking`
 
----
-
-### 🎮 Matrioska de Palavras
-> *Web Development — UMa 2025/26*
-
-Jogo multijogador de agilidade linguística. O jogador recebe uma
-Palavra-Mestra e deve encontrar o maior número de subpalavras escondidas
-na sua grafia. Suporta modo single-player e multiplayer remoto.
-
-`HTML` `CSS` `JavaScript` `Node.js` `React` `MongoDB` `Socket.io`
+[![Home Lab](https://img.shields.io/badge/GitHub-Home_Lab-00d4ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariobelim3)
 
 ---
 
